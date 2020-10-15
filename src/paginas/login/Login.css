@@ -1,0 +1,23 @@
+.login-container {
+    background-color: steelblue;
+}
+
+.login-contenido {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+}
+
+.boton-ingresar {
+    width: 150px;
+    height: 35px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-bottom: 150px;
+    background-color: rgb(1, 55, 55);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
