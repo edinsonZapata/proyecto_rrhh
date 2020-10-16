@@ -1,7 +1,7 @@
 .label-inicio {
-    color: antiquewhite;
-    text-align: left !important;
+    color:cadetblue;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 .label-error {

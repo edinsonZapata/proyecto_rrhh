@@ -1,5 +1,8 @@
 .login-container {
-    background-color: steelblue;
+    background-image:url(https://www.esan.edu.pe/apuntes-empresariales/2019/10/02/1200x630_machine_learning.jpg);
+    background-repeat: no-repeat;    
+    background-size:100%;
+
 }
 
 .login-contenido {
@@ -8,6 +11,7 @@
     justify-content: center;
     align-items: center;
     padding-top: 10%;
+    padding-right: 60%;
 }
 
 .boton-ingresar {
@@ -15,8 +19,8 @@
     height: 35px;
     border-radius: 25px;
     box-sizing: border-box;
-    margin-bottom: 150px;
-    background-color: rgb(1, 55, 55);
+    margin-bottom: 100%;
+    background-color:darkblue;
     color: white;
     font-size: 14px;
     font-weight: bold;
